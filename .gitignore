@@ -27,3 +27,22 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+
+### Java ###
+*.class
+out/
+target/
+
+### Copilot / AI Files ###
+copilot.data.migration*.xml
+
+### Logs ###
+*.log
+
+### OS ###
+.DS_Store
+Thumbs.db
