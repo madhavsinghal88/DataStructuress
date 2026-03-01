@@ -1,4 +1,4 @@
-package Leetcode;
+package leetcode;
 import java.util.Arrays;
 public class lc167 {
     public int[] twoSum(int[] numbers,int target) {

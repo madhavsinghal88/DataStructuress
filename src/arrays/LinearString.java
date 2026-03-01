@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 
 public class LinearString {
     public static int linearSearch(String[] menu,String key){
